@@ -8,11 +8,13 @@ public class TestController {
         System.out.println("测试专用");
     }
 
-    public void aaa(){
+    public void aaa() {
+        System.out.println("测试专用");
 
     }
 
-    public void bbb(){
+    public void bbb() {
+        System.out.println("测试专用");
 
     }
 }
