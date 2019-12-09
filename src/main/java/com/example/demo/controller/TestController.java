@@ -15,9 +15,15 @@ public class TestController {
         System.out.println("测试专用");
         Test test=new Test();
         test.setAaa("a");
+
     }
 
     public void bbb() {
+        System.out.println("测试专用");
+
+    }
+
+    public void ccc() {
         System.out.println("测试专用");
 
     }
